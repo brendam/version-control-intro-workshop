@@ -4,4 +4,4 @@ Move beyond ‘undo’, renaming and email. Keep a history of your changes to do
 
 The workshop is hosted on GitHub at: https://github.com/qut-dmrc/version-control-intro-workshop
 
-The practice repository for experimenting with collaboration is hosted on GitHub at: https://github.com/qut-dmrc/version-control-practice-wednesday
+The practice repository for experimenting with collaboration is hosted on GitHub at: https://github.com/qut-dmrc/version-control-practice-thursday
